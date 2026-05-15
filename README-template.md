@@ -14,11 +14,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Useful resources](#useful-resources)
   - [AI Collaboration](#ai-collaboration)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
+
+This is the first of many projects in my front-end developer portfolio to get me a job in the field and eventually be able to work on projects for clients of my own autonomously.
 
 ### Screenshot
 
@@ -26,8 +26,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Repository URL](https://github.com/bessoAgustin/qr-code-challenge.git)
+- Live Site URL: [Llive site URL (GitHub Pages)](https://bessoagustin.github.io/qr-code-challenge/)
 
 ## My process
 
@@ -60,7 +60,7 @@ It was also my first time using external fonts in development:
 ```html
 <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap" rel="stylesheet">
 ```
-I consider the most valuable block of code in my CSS file to be this next one, since it represented the real challenge of positioning the container div in the middle of the page to imitate as close as possible the given image.
+I consider the most valuable block of code in my CSS file to be this next one, since it represented the real challenge of positioning the container div in the middle of the page to imitate as close as possible the given image. I learned for the first time how to use the Flexbox features for this action.
 
 ```css
 .container {
@@ -85,20 +85,14 @@ In future projects I plan to continue my path to learning how responsiveness wor
 ### Useful resources
 
 - [W3Schools](https://www.w3schools.com/) - Always the most reliable source for troubleshooting when I get stuck with some concept.
+- [Coder Coder's "Git, GitHub, & GitHub Desktop for beginners"](https://youtu.be/8Dd7KRpKeaE?si=ByinKElc8Pdtn6OA) - Great resource to learn how Git and GitHub work on real production environments.
+- [The Common Coder's "How to Use GitHub Pages in 2026! (Beginner's Guide)"](https://youtu.be/5XhxR9Vs6zc?si=dzor6DHAP7dLhYso) - Clear and concise step-by-step of how to create a GitHub Page as my site hosting.
 
 ### AI Collaboration
 
-Given the low complexity of the present project, the use of AI agents was truly limited. In this case, I used Claude when I felt I had already tried everything and wasn't getting to the desired solution, particularly on the Flexbox features and importing the 'Outfit' font from Google Fonts, which are actions I never used before. 
+Given the low complexity of the present project, the use of AI agents was truly limited. In this case, I used Claude when I felt I had already tried everything and wasn't getting to the desired solution, particularly on the Flexbox features and importing the 'Outfit' font from Google Fonts, which are tools I never used before. 
 
 ## Author
 
-- Website - [Agustín Besso](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+- GitHub Profile - [@bessoAgustin](https://github.com/bessoAgustin)
+- Frontend Mentor - [@bessoAgustin](https://www.frontendmentor.io/profile/bessoAgustin)
